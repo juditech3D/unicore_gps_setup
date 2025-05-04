@@ -1,7 +1,3 @@
-Parfait ! Voici un **aperçu complet** de ce à quoi ressemblera la **page GitHub principale** de ton dépôt `unicore-gps-setup` une fois publié :
-
----
-
 # unicore-gps-setup
 
 [![Installer maintenant](https://img.shields.io/badge/Installation-%F0%9F%9A%80%20Script%20GPS%20Unicore-blue?style=for-the-badge)](https://raw.githubusercontent.com/juditech3D/unicore-gps-setup/main/install.sh)
